@@ -73,7 +73,7 @@ const dom =
 </html>
 ```
 
-See also [dom-script running in the browser]('./example/index.html')
+See also [dom-script running in the browser](/example/index.html)
 
 ## Installation and usage
 
